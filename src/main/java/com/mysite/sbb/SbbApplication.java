@@ -1,13 +1,12 @@
-package com.example.sbbmisson;
+package com.mysite.sbb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbbMissonApplication {
+public class SbbApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SbbMissonApplication.class, args);
+        SpringApplication.run(SbbApplication.class, args);
     }
-
 }
